@@ -69,4 +69,4 @@ The **Galaxy Visualization Project** is a 3D simulation that offers a visually e
 - **Performance Optimization**:
   - Leverages WebGL's hardware acceleration for smooth, responsive visuals.
   - Implements adaptive animations to maintain fluidity even on devices with lower performance capabilities.
-  - 
+    
